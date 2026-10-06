@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300"><rect width="600" height="300" fill="#fff"/>
+<defs><linearGradient id="s" x1="0" x2="1"><stop offset="0" stop-color="#7a2cff"/><stop offset=".2" stop-color="#2a5cff"/><stop offset=".4" stop-color="#1fb7ff"/><stop offset=".5" stop-color="#2fd35a"/><stop offset=".65" stop-color="#ffe600"/><stop offset=".8" stop-color="#ff8a00"/><stop offset="1" stop-color="#e51c1c"/></linearGradient></defs>
+<path d="M50 20V230H590" stroke="#4d6455" stroke-width="1.5" fill="none"/><rect x="50" y="236" width="540" height="14" fill="url(#s)"/>
+<g font-size="13" text-anchor="middle" font-family="Arial,sans-serif" fill="#17301f"><text x="50" y="270">400 nm</text><text x="230" y="270">500</text><text x="410" y="270">600</text><text x="590" y="270">700 nm</text></g>
+<text x="14" y="130" font-size="13" transform="rotate(-90 14 130)" text-anchor="middle" font-family="Arial,sans-serif" fill="#17301f">Light absorbed</text>
+<polyline fill="none" stroke="#2f9e44" stroke-width="3" stroke-linejoin="round" points="50,125 104,50 158,116 230,192 320,215 410,192 482,135 522,59 554,116 590,211"/>
+<polyline fill="none" stroke="#1f7ae0" stroke-width="3" stroke-linejoin="round" points="50,154 145,59 194,135 266,207 338,215 410,183 486,107 518,154 590,221"/>
+<text x="110" y="42" font-size="13" font-family="Arial" fill="#2f9e44">Chlorophyll a</text><text x="152" y="76" font-size="13" font-family="Arial" fill="#1f7ae0">Chlorophyll b</text>
+<text x="290" y="205" font-size="13" font-family="Arial,sans-serif" fill="#17301f">green: reflected</text></svg>

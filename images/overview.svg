@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 190"><rect width="600" height="190" fill="#fff"/>
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="#6b8a72"/></marker></defs>
+<circle cx="60" cy="40" r="20" fill="#e8a800"/><g stroke="#e8a800" stroke-width="3"><path d="M60 8v8M60 64v8M28 40h8M84 40h8M37 17l6 6M77 57l6 6M83 17l-6 6M43 57l-6 6"/></g>
+<text x="60" y="90" text-anchor="middle" font-size="15" font-family="Arial,sans-serif" fill="#17301f">Light</text>
+<text x="60" y="125" text-anchor="middle" font-size="16" font-weight="bold" font-family="Arial,sans-serif" fill="#17301f">H2O</text>
+<text x="60" y="165" text-anchor="middle" font-size="16" font-weight="bold" font-family="Arial,sans-serif" fill="#17301f">CO2</text>
+<path d="M105 40L205 80M105 122L205 95M105 160L205 105" stroke="#6b8a72" stroke-width="2" marker-end="url(#a)"/>
+<ellipse cx="300" cy="90" rx="95" ry="55" fill="#4fa85a"/><ellipse cx="300" cy="90" rx="80" ry="42" fill="#3b8f47"/>
+<text x="300" y="88" text-anchor="middle" font-size="16" font-weight="bold" font-family="Arial" fill="#fff">Chloroplast</text>
+<text x="300" y="107" text-anchor="middle" font-size="13" font-family="Arial" fill="#fff">inside the leaf cell</text>
+<path d="M398 80L490 45M398 100L490 140" stroke="#6b8a72" stroke-width="2" marker-end="url(#a)"/>
+<text x="540" y="50" text-anchor="middle" font-size="16" font-weight="bold" font-family="Arial,sans-serif" fill="#17301f">O2</text>
+<text x="540" y="146" text-anchor="middle" font-size="16" font-weight="bold" font-family="Arial,sans-serif" fill="#17301f">Glucose</text></svg>

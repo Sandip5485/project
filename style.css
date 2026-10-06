@@ -1,0 +1,21 @@
+*{box-sizing:border-box}
+body{margin:0;background:#f4f8f2;color:#17301f;font:17px/1.65 Georgia,serif}
+header{background:#e4f0df;border-bottom:1px solid #d3e0d2;padding:40px 18px}
+header div,main{max-width:900px;margin:0 auto}
+main{padding:0 18px 40px}
+h1,h2,h3{font-family:Arial,sans-serif;line-height:1.25}
+h1{font-size:clamp(1.9rem,6vw,2.8rem);margin:0 0 8px}
+header p{margin:0;color:#4d6455}
+section{padding:32px 0;border-bottom:1px solid #d3e0d2}
+h2{margin-top:0}
+.row{display:flex;flex-wrap:wrap;gap:22px;align-items:center;margin:16px 0}
+.row figure{flex:1 1 380px;margin:0}
+.row .text{flex:1 1 300px}
+img{width:100%;height:auto;border:1px solid #d3e0d2;border-radius:10px;background:#fff;display:block}
+figcaption{font:.88rem Arial,sans-serif;color:#4d6455;margin-top:6px}
+.eq{background:#fff;border:1px solid #d3e0d2;border-radius:10px;padding:14px;text-align:center;font:bold 1.1rem Arial,sans-serif;overflow-x:auto}
+.scroll{overflow-x:auto}
+table{border-collapse:collapse;width:100%;min-width:460px;background:#fff;font:.95rem Arial,sans-serif;margin:12px 0}
+th,td{border:1px solid #d3e0d2;padding:8px 10px;text-align:left;vertical-align:top}
+th{background:#e4f0df}
+.note{border-left:4px solid #e8a800;background:#fff;padding:10px 16px;border-radius:0 8px 8px 0}

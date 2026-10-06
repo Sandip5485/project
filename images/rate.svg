@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 250"><rect width="500" height="250" fill="#fff"/>
+<path d="M50 20V210H470" stroke="#4d6455" stroke-width="1.5" fill="none"/>
+<path d="M50 205C110 110 190 62 290 52S420 48 460 48" fill="none" stroke="#2f9e44" stroke-width="3.5"/>
+<path d="M290 52V210" stroke="#e8a800" stroke-width="2" stroke-dasharray="6 5"/>
+<g font-size="13" font-family="Arial,sans-serif" fill="#17301f"><text x="295" y="232">saturation point</text><text x="470" y="245" text-anchor="end">Light intensity</text><text x="16" y="120" transform="rotate(-90 16 120)" text-anchor="middle">Rate of photosynthesis</text><text x="110" y="110">light is limiting</text><text x="320" y="40">other factors limit</text></g></svg>
